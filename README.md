@@ -1,0 +1,1 @@
+The To-Do List App is a simple yet powerful application designed to help you manage your daily tasks efficiently. With features such as task creation, editing, deletion, and categorization, it allows users to stay organized and focused. 
